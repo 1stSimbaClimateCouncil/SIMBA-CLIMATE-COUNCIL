@@ -2,57 +2,63 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Simba Climate Council (SCC) | UoN</title>
-  <link rel="icon" href="SCC FINAL LOGO 27TH MAY, 2025.png" type="image/png" />
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="icon" href="scc-logo.png" />
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-white text-gray-800">
+<body class="bg-white text-gray-800 font-sans">
+
   <!-- Header -->
-  <header class="bg-blue-900 text-white py-6 shadow-md">
-    <div class="container mx-auto flex justify-between items-center px-4">
-      <div class="flex items-center space-x-4">
-        <img src="SCC FINAL LOGO 27TH MAY, 2025.png" alt="SCC Logo" class="w-12 h-12 rounded-full" />
-        <div>
-          <h1 class="text-xl font-bold">Simba Climate Council</h1>
-          <p class="text-sm">Redefining Governance for a Resilient Kenya</p>
-        </div>
-      </div>
-      <nav class="space-x-6 text-sm">
-        <a href="#about" class="hover:underline">About</a>
-        <a href="#programs" class="hover:underline">Programs</a>
-        <a href="#join" class="hover:underline">Join</a>
-        <a href="#contact" class="hover:underline">Contact</a>
-      </nav>
-    </div>
+  <header class="bg-[#0057A0] text-white p-6 flex items-center justify-between shadow-md">
+    <img src="scc-logo.png" alt="SCC Logo" class="h-14">
+    <h1 class="text-2xl font-bold">Simba Climate Council (SCC)</h1>
   </header>
 
-  <!-- Hero -->
-  <section class="bg-green-100 py-16 text-center">
-    <h2 class="text-4xl font-bold text-green-800">University-rooted Climate Governance</h2>
-    <p class="mt-4 text-lg max-w-xl mx-auto">Engaging students, faculty, and professionals in evidence-based climate action and governance through research, advocacy, and innovation.</p>
-    <div class="mt-6">
-      <a href="#join" class="bg-blue-700 hover:bg-blue-800 text-white px-6 py-2 rounded-full">Join SCC</a>
+  <!-- Hero Section -->
+  <section class="bg-[#2E7D32] text-white text-center py-16 px-6">
+    <h2 class="text-4xl font-bold mb-4">Redefining Governance for a Resilient Kenya</h2>
+    <p class="text-xl max-w-3xl mx-auto">Rooted in the University of Nairobi, we lead creative governance-based climate interventions locally and globally.</p>
+    <div class="mt-8 space-x-4">
+      <a href="#join" class="bg-white text-[#2E7D32] px-6 py-3 font-semibold rounded-full shadow hover:bg-gray-100">Join Us</a>
+      <a href="#constitution" class="bg-[#0057A0] text-white px-6 py-3 font-semibold rounded-full shadow hover:bg-blue-800">View Constitution</a>
     </div>
   </section>
 
   <!-- About Section -->
-  <section id="about" class="py-16 bg-white px-4">
-    <div class="max-w-4xl mx-auto">
-      <h3 class="text-2xl font-bold text-blue-800 mb-4">About Us</h3>
-      <p class="mb-4">SCC is a student-founded, professional-partnered climate governance hub based at the University of Nairobi's Department of Geography. Our goal is to inspire actionable, policy-driven, and creative climate responses.</p>
-      <ul class="list-disc pl-6 space-y-2 text-gray-700">
-        <li>Raise awareness on climate governance</li>
-        <li>Build strategic partnerships</li>
-        <li>Influence policy at national and global levels</li>
-        <li>Support creative, youth-led interventions</li>
-      </ul>
+  <section class="py-12 px-6 max-w-5xl mx-auto">
+    <h3 class="text-3xl font-bold text-center text-[#0057A0] mb-6">About Us</h3>
+    <p class="text-lg text-center mb-8">SCC is a climate governance initiative based at the University of Nairobi’s Department of Geography. We empower youth, academics, and professionals to lead change through policy, research, and innovation.</p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div>
+        <h4 class="text-xl font-semibold text-[#2E7D32] mb-2">Our Vision</h4>
+        <p>To be a university-rooted hub leading creative, governance-based interventions for climate action at all levels.</p>
+      </div>
+      <div>
+        <h4 class="text-xl font-semibold text-[#2E7D32] mb-2">Our Mission</h4>
+        <p>To engage students, faculty, and professionals in shaping evidence-based climate policy and innovative strategies.</p>
+      </div>
     </div>
   </section>
 
+  <!-- Objectives -->
+  <section class="bg-[#E8F5E9] py-12 px-6">
+    <h3 class="text-3xl font-bold text-center text-[#0057A0] mb-6">Core Objectives</h3>
+    <ul class="max-w-3xl mx-auto list-disc list-inside text-lg space-y-2">
+      <li>Raise awareness on climate governance among university students.</li>
+      <li>Develop policy proposals targeting climate ministries and agencies.</li>
+      <li>Build partnerships with government, civil society, and global organizations.</li>
+      <li>Host creative interventions like eco-art and climate hackathons.</li>
+      <li>Influence university curricula on climate and governance.</li>
+    </ul>
+  </section>
+
   <!-- Footer -->
-  <footer class="bg-blue-900 text-white text-center py-6">
-    <p>&copy; 2025 Simba Climate Council (SCC) | University of Nairobi</p>
+  <footer class="bg-[#0057A0] text-white text-center py-6">
+    <p>&copy; 2025 Simba Climate Council – University of Nairobi Affiliate</p>
+    <p class="text-sm">Website by SCC | Nairobi, Kenya</p>
   </footer>
+
 </body>
 </html>
