@@ -103,7 +103,7 @@ s0.parentNode.insertBefore(s1,s0);
             <h2>About Us</h2>
             <p>Simba Climate Council: The SIMBA Climate Council is an organization focused on addressing climate change through research, policy advocacy, and community engagement. It aims to promote sustainable practices and collaborate with various stakeholders to develop effective solutions for mitigating environmental impacts and enhancing resilience.</p>
     <img src="24 hours service site.png" alt="Promote Climate Governance."width="300" height="200" /> 	
-	<a href="The Silent Crisis - Unveiling Environmental Destruction in Kenya.docx" download>Download Situation review Article (Docx, 73.4 MB)</a>
+	<a href="The Silent Crisis - Unveiling Environmental Destruction in Kenya.pdf" download>Download Situation review Article (PDF, 146 KB)</a>
     </section>
         <section id="services">
             <h2>Our Services: </h2>
@@ -236,32 +236,14 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="modal-content">
         <span class="close" id="closeBtn">&times;</span>
         <h2>Payment Information</h2>
-        <p><strong>Paybill Number:</strong> 884219</p>
-        <p><strong>Account Number:</strong> 991702</p>
-		<img src="Happy Clients - our joy.jfif" alt="Happy Clients Feedback"width="300" height="200" /> 
-    </div>
-	</div>
-			</section>
-			<section id="Updates">
-			<h2>Updates</h2>
+        <p><strong>Paybill Number:</strong> To be updated</p>
+        <p><strong>Account Number:</strong> To be updated</p>
+		
     <ul>
         <li><a href="https://www.nationalgeographic.com/environment/article/desertification" target="_blank">Climate change (Desertification is real, let's be cognizant of the challenge)</a></li>
 			<li><a href="https://www.un.org/en/climatechange/what-is-climate-change" target="_blank">Visit the link:- Climate change - Understand the challenge)</a></li>
 					
 <a href="Mitigating Climate Change in Nakuru.pdf" download>Download our article; Curbing Climate Change - Case study - Nakuru, Laikipia, & Samburu Counties (PDF, 174 KB)</a>
-		<ul>
-		</section>
-        <section id="Property Sale">
-            <h2>Property Sale</h2>
-	
-            <ul>
-                <li>We have property in land and automobiles in our portfolio. Talk to us through our Property Management Department</li>
-	</section>
-        <section id="Current Product/Mauzo ya Leo">
-            <h2>Current Product/Mauzo ya Leo</h2>
-            <ul>
-			<li>Opener Exams Term I, 2025 for Pre-school (PG-PP2, Primary, Jss, & Senior Secondary</li>
-                <li>Climate Change Article (100/-)</li>	
                </section>
         <section id="Inquiry">
             <h2>For Inquiry</h2>
