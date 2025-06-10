@@ -1,0 +1,263 @@
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.5">
+    <title>SIMBA CLIMATE COUNCIL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #0078D4;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header img {
+            max-width: 150px;
+        }
+        nav {
+            background: #f4f4f9;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #0078D4;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        footer {
+            text-align: center;
+            background: #333;
+            color: white;
+            padding: 1rem 0;
+        }
+        .payment-button {
+            display: inline-block;
+            background: #0078D4;
+            color: white;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 1rem;
+        }
+        .payment-button:hover {
+            background: #005bb5;
+        }
+    </style>
+</head>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/676d1b7d49e2fd8dfefe1c18/1ig136pf9';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script--><body>
+    <header>
+        <img src="SCC LOGO FINAL 9TH JUNE.png" alt="SIMBA CLIMATE COUNCIL Logo">
+        <h1>Welcome to SIMBA CLIMATE COUNCIL.</h1>
+        <p>Your Trusted Climate Governance Initiative. </p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+		<a href="#Inquiry">Inquiry</a>
+        <a href="#contact">Contact</a>
+		<a href="#Updates">Updates</a>
+		<a href="#Climate Change Articles">Blog</a>
+		<a href="#Current Projects">Current Products</a>
+		
+		
+
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>Welcome to Simba Climate Council. We provide evidence-based strategic intervention through our anchor at the University of Nairobi, a hub of research and development.
+</p>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Simba Climate Council: The SIMBA Climate Council is an organization focused on addressing climate change through research, policy advocacy, and community engagement. It aims to promote sustainable practices and collaborate with various stakeholders to develop effective solutions for mitigating environmental impacts and enhancing resilience.</p>
+    <img src="24 hours service site.png" alt="Promote Climate Governance."width="300" height="200" /> 	
+	<a href="The Silent Crisis - Unveiling Environmental Destruction in Kenya.pdf" download>Download Situation review Article (PDF, 146 KB)</a>
+    </section>
+        <section id="services">
+            <h2>Our Services: </h2>
+            <ul>
+			
+                <li>University-Centered (The SCC leverages the academic environment to engage students, faculty, and professionals in climate governance.)</li>
+                <li>Comprehensive Policy (SCC actively develops evidence-based policy proposals to the government & International Community facilitating informed decision-making on climate issues.)</li>
+                <li>Innovative Engagement Strategies - SCC employs creative interventions to raise awareness and engage diverse stakeholders in climate action..</li>
+                <li>Strategic Partnerships (By building relationships//Partnership, SCC enhances capacity for impactful climate interventions and resources.)</li>
+				<li>Establishment of Climate Governance Initiatives (Climate-Related Projects</li>
+				<li>Climate-governance Awareness Initiative</li>
+				<li>University of Nairobi as the Hub of Research-based initiatives</li>
+				<li>Youth-led initiative</li>
+				<li>Public policy proposal and advocacy for enhanced Climate Governance in Kenya and Globally</li>
+       <h2>More Information</h2>
+    <ul>
+        <li><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/767173/EPRS_BRI(2024)767173_EN.pdf" target="_blank">Denmark's Remarkable Climate Governance</a></li>
+        <li><a href="https://www.naturvardsverket.se/en/topics/climate-transition/sveriges-klimatarbete/swedens-climate-act-and-climate-policy-framework/" target="_blank">Climate Action in Sweden - Real Change</a></li>
+       
+    </ul>	
+	<section id="Memerships">
+            <h2>Requirements</h2>
+		<ul>
+			<li>UoN Students - Free upon vetting</li>
+			<li>Professionals in the Environmental Conservation</li>
+			<li> Fill the SCC Registration Form</li>
+			<li> Submit either hardcopy or soft copy of the filled form - all details captured</li>
+			<li> Vetting is Done by SCC Leadership Board in Collaboration with Advisory Board</li>
+			<li> Member invited for physical or virtual Orientation and assignment</li>
+			<li> Integration into the SCC media network for Timely Updates</li>
+			<li> Participation in SCC Projects</li>
+			<ul>
+<a href="https://www.un.org/sustainabledevelopment/climate-action/" download>Download - United Nations Sustainable Development Goals -SDG </a>
+
+<li> OUR Stakeholders' FEEDBACK </li>
+<img src="" alt=""width="700" height="600" />
+		<ul>
+
+            </ul>
+            <p>Tap to Pay - <a href="#" id="payLink">Pay Here</a></p>
+<!-- Link to Trigger the Modal -->
+<p><a href="#" id="payLink">Secure Payment Portal</a></p>
+
+<!-- Modal for Pay Bill Information -->
+<div id="modal" style="display: none;">
+    <div class="modal-content">
+        <span class="close" id="closeBtn">&times;</span>
+        <h2>Payment Information</h2>
+        <p><strong>Paybill Number:</strong> To be updated</p>
+        <p><strong>Account Number:</strong> To be updated</p>
+		              <p><strong>Or</strong>
+		<p><strong>Buy Goods Till:</strong> to be updated</p>
+    </div>
+</div>
+
+<style>
+    /* Styling for the modal */
+    #modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0,0,0,0.4);
+    }
+
+    .modal-content {
+        background-color: white;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 50%;
+    }
+
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    /* Style for the link */
+    #payLink {
+        color: #007BFF;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    #payLink:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    // Get the modal and the link
+    var modal = document.getElementById('modal');
+    var link = document.getElementById('payLink');
+    var closeBtn = document.getElementById('closeBtn');
+
+    // When the user clicks on the "Tap to Pay" link, open the modal
+    link.onclick = function(event) {
+        event.preventDefault();  // Prevent the default link behavior
+        modal.style.display = "block";  // Show the modal
+    };
+
+    // When the user clicks on the close button, close the modal
+    closeBtn.onclick = function() {
+        modal.style.display = "none";  // Hide the modal
+    };
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";  // Hide the modal if clicked outside
+        }
+    };
+</script>
+<!-- Modal for Pay Bill Information -->
+<div id="modal" style="display: none;">
+    <div class="modal-content">
+        <span class="close" id="closeBtn">&times;</span>
+        <h2>Payment Information</h2>
+        <p><strong>Paybill Number:</strong> To be updated</p>
+        <p><strong>Account Number:</strong> To be updated</p>
+		
+    <ul>
+        <li><a href="https://www.nationalgeographic.com/environment/article/desertification" target="_blank">Climate change (Desertification is real, let's be cognizant of the challenge)</a></li>
+			<li><a href="https://www.un.org/en/climatechange/what-is-climate-change" target="_blank">Visit the link:- Climate change - Understand the challenge)</a></li>
+					
+<a href="Mitigating Climate Change in Nakuru.pdf" download>Download our article; Curbing Climate Change - Case study - Nakuru, Laikipia, & Samburu Counties (PDF, 174 KB)</a>
+               </section>
+        <section id="Inquiry">
+            <h2>For Inquiry</h2>
+            <p>whatsapp: +254784452243//+254700752543 
+</p>
+        </section>
+		
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: +254723354483 //+254700752543  email: ■	info@simbaclimatecouncil.org//simbaclimate.2548@gmail.com        "Save the Planet'</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 SIMBA CLIMATE COUNCIL. All rights reserved.</p>
+    </footer>
+</body>
+</html>
